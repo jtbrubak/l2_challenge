@@ -1,6 +1,7 @@
 require 'oga'
 require 'open-uri'
 require 'csv'
+require 'date'
 
 def run(search_term)
   all_results = []
@@ -41,7 +42,9 @@ def scrape_page(oga_page, search_rank)
 end
 
 def write(results)
-  CSV.open("file1.csv", "w") do |csv|
+  file = "#{ARGV.join(" ")} #{DateTime.now.strftime('%m-%d-%Y')}.csv"
+  CSV.open(file, "w") do |csv|
+    csv << ["Search Rank", "Brand", "Model", "Rating", "Number of Ratings"]
     results.each do |result|
       csv << [result[:search_rank], result[:brand], result[:model_num], result[:rating], result[:num_ratings]]
     end
