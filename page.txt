@@ -1,0 +1,73 @@
+[#<Mechanize::Page::Link
+ "Insignia™ - 32\" Class (31.5\" Diag.) - LED - 720p - Smart - Roku TV"
+ "/site/insignia-32-class-31-5-diag--led-720p-smart-roku-tv/4822001.p?skuId=4822001">
+, #<Mechanize::Page::Link
+ "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/samsung-40-class-40-diag--led-1080p-smart-hdtv/6422016.p?skuId=6422016">
+, #<Mechanize::Page::Link
+ "LG - 43\" Class (42.5\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/lg-43-class-42-5-diag--led-1080p-smart-hdtv/5803102.p?skuId=5803102">
+, #<Mechanize::Page::Link
+ "Insignia™ - 39\" Class (38.5\" Diag.) - LED - 1080p - Smart - HDTV Roku TV"
+ "/site/insignia-39-class-38-5-diag--led-1080p-smart-hdtv-roku-tv/4863802.p?skuId=4863802">
+, #<Mechanize::Page::Link
+ "Westinghouse - 24\" Class (23.6\" Diag.) - LED - 720p - Smart - HDTV"
+ "/site/westinghouse-24-class-23-6-diag--led-720p-smart-hdtv/5634400.p?skuId=5634400">
+, #<Mechanize::Page::Link
+ "Sharp - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV Roku TV"
+ "/site/sharp-50-class-49-5-diag--led-1080p-smart-hdtv-roku-tv/4863102.p?skuId=4863102">
+, #<Mechanize::Page::Link
+ "LG - 49\" Class (48.5\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/lg-49-class-48-5-diag--led-1080p-smart-hdtv/5803100.p?skuId=5803100">
+, #<Mechanize::Page::Link
+ "Sharp - 43\" Class (42.5\" Diag.) - LED - 1080p - Smart - HDTV - Roku TV"
+ "/site/sharp-43-class-42-5-diag--led-1080p-smart-hdtv-roku-tv/4863301.p?skuId=4863301">
+, #<Mechanize::Page::Link
+ "Sharp - 32\" Class (31.5\" Diag.) - LED - 720p - Smart - HDTV Roku TV"
+ "/site/sharp-32-class-31-5-diag--led-720p-smart-hdtv-roku-tv/5746700.p?skuId=5746700">
+, #<Mechanize::Page::Link
+ "TCL - 43\" Class (43\" Diag.) - LED - 1080p - Smart - HDTV Roku TV"
+ "/site/tcl-43-class-43-diag--led-1080p-smart-hdtv-roku-tv/5872101.p?skuId=5872101">
+, #<Mechanize::Page::Link
+ "VIZIO - 39\" Class (38.5\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/vizio-39-class-38-5-diag--led-1080p-smart-hdtv/5762810.p?skuId=5762810">
+, #<Mechanize::Page::Link
+ "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV"
+ "/site/samsung-55-class-54-6-diag--led-2160p-smart-4k-ultra-hd-tv/5217300.p?skuId=5217300">
+, #<Mechanize::Page::Link
+ "Samsung - 28\" Class (27-1/2\" Diag.) - LED - 720p - Smart - HDTV"
+ "/site/samsung-28-class-27-1-2-diag--led-720p-smart-hdtv/7210005.p?skuId=7210005">
+, #<Mechanize::Page::Link
+ "Sony - 48\" Class (47.6\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/sony-48-class-47-6-diag--led-1080p-smart-hdtv/4801501.p?skuId=4801501">
+, #<Mechanize::Page::Link
+ "LG - 32\" Class (31.5\" Diag.) - LED - 720p - Smart - HDTV"
+ "/site/lg-32-class-31-5-diag--led-720p-smart-hdtv/5803109.p?skuId=5803109">
+, #<Mechanize::Page::Link
+ "Samsung - 32\" Class (31.5\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/samsung-32-class-31-5-diag--led-1080p-smart-hdtv/4380083.p?skuId=4380083">
+, #<Mechanize::Page::Link
+ "Samsung - 43\" Class (42.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV"
+ "/site/samsung-43-class-42-5-diag--led-2160p-smart-4k-ultra-hd-tv/5768501.p?skuId=5768501">
+, #<Mechanize::Page::Link
+ "LG - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV"
+ "/site/lg-55-class-54-6-diag--led-2160p-smart-4k-ultra-hd-tv/5792910.p?skuId=5792910">
+, #<Mechanize::Page::Link
+ "Samsung - 24\" Class (23-5/8\" Diag.) - LED - 720p - Smart - HDTV"
+ "/site/samsung-24-class-23-5-8-diag--led-720p-smart-hdtv/8040004.p?skuId=8040004">
+, #<Mechanize::Page::Link
+ "Westinghouse - 42\" Class (41.5\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/westinghouse-42-class-41-5-diag--led-1080p-smart-hdtv/5751203.p?skuId=5751203">
+, #<Mechanize::Page::Link
+ "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/samsung-40-class-40-diag--led-1080p-smart-hdtv/5410021.p?skuId=5410021">
+, #<Mechanize::Page::Link
+ "VIZIO - 48\" Class (47.6\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/vizio-48-class-47-6-diag--led-1080p-smart-hdtv/4858900.p?skuId=4858900">
+, #<Mechanize::Page::Link
+ "Samsung - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV"
+ "/site/samsung-55-class-54-6-diag--led-1080p-smart-hdtv/7068146.p?skuId=7068146">
+, #<Mechanize::Page::Link
+ "Insignia™ - 24\" Class (23.6\" Diag.) - LED - 720p - Smart - HDTV Roku TV"
+ "/site/insignia-24-class-23-6-diag--led-720p-smart-hdtv-roku-tv/5712448.p?skuId=5712448">
+]
